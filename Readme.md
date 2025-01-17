@@ -5,6 +5,7 @@ Technical Foundation of Ecommerce
 
 
 ![Image](https://github.com/user-attachments/assets/b9ce931d-0bf1-47e7-8416-e55f7023ab2a)
+<img src="https://github.com/user-attachments/assets/b9ce931d-0bf1-47e7-8416-e55f7023ab2a" alt=""/>
 
 
 
