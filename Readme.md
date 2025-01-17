@@ -4,8 +4,8 @@
 Technical Foundation of Ecommerce
 
 
-![Image](https://github.com/user-attachments/assets/b9ce931d-0bf1-47e7-8416-e55f7023ab2a)
-<img src="https://github.com/user-attachments/assets/b9ce931d-0bf1-47e7-8416-e55f7023ab2a" alt=""/>
+![Image](https://github.com/user-attachments/assets/18a7a1e1-d855-4535-afd2-03e09bd20f26)
+
 
 
 
@@ -40,7 +40,8 @@ Technical Foundation of Ecommerce
 
 
 
-![Image](https://github.com/user-attachments/assets/8503702a-b919-4c98-b53b-cb71c47465f9)
+
+![Image](https://github.com/user-attachments/assets/48be3acd-ee44-4f5d-899f-c5778bf9a8d2)
 
 ## Details
 Frontend:
@@ -60,7 +61,7 @@ Frontend:
 
 ## Backend: (Sanity CMS) :
 
-![Image](https://github.com/user-attachments/assets/6559e0dc-3c0f-43e6-90c6-836aa232dc12)
+![Image](https://github.com/user-attachments/assets/0d4c18a8-d1fb-420a-8a84-574c6ee99da3)
 
 {  
      
@@ -107,19 +108,19 @@ Available items
 }
 }
 
-![Image](https://github.com/user-attachments/assets/eceac74d-f2ed-4802-88c7-157655d52e73)
+![Image](https://github.com/user-attachments/assets/1dd4e1d2-4e0e-4413-af49-3a5b1c90580a)
 
-![Image](https://github.com/user-attachments/assets/4f950e1a-d88b-43dd-9336-05bfbc46ea31)
+![Image](https://github.com/user-attachments/assets/45e09d12-c851-49d3-bf23-fd1c5031078d)
 
-![Image](https://github.com/user-attachments/assets/ef27385f-ce19-4cfc-837a-da073f178be0)
+![Image](https://github.com/user-attachments/assets/618e1572-854e-4534-97ab-f6ed6c80586a)
 
-![Image](https://github.com/user-attachments/assets/b2ecaf6d-eaa5-4fd5-ada5-e0c4378cf99c)
+![Image](https://github.com/user-attachments/assets/fe4eef93-89c3-44e4-ad63-8a1a9c81d1f9)
 
 
 
 ## Endpoint APIs:
 
-![Image](https://github.com/user-attachments/assets/78e5b8e2-a095-45ba-9daa-7978de26b348)
+![Image](https://github.com/user-attachments/assets/17eda3fe-95a8-4db6-b64b-cac30f1fbf2c)
 
 
 
